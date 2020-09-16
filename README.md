@@ -1,4 +1,4 @@
-# Groundhogg Extension for Slack
+# Groundhogg Extension for GetEmails
 
 A simple extension for Groundhogg that allows you to add contacts discovered by GetEmails into your Groundhogg contacts list.
 
